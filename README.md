@@ -62,7 +62,7 @@ MultipleFiles/
 ## 🚀 Getting Started
 
 1. Open the Project:  
-   Open main.html in your browser to launch the homepage.
+   Open index.html in your browser to launch the homepage.
 
 2. Explore the Features:
    - 📰 Browse the blog for articles  
@@ -81,7 +81,7 @@ MultipleFiles/
 
 ## 🌟 Future Improvements
 
-- 🧾 Real-time checkout with payment gateway integration (e.g., Stripe or PayPal)  
+- 🧾 Real-time checkout with payment gateway integration (e.g., Razorpay or PayPal)  
 - 📦 Order tracking and user order history  
 - 🔍 Product filtering and sorting tools  
 - 🧠 AI-based product recommendations  
