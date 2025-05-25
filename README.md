@@ -35,9 +35,7 @@ MultipleFiles/
 ├── blog-post-1.html
 ├── blog-post-2.html
 ├── blog-post-3.html
-├── cart.css
-├── cart.html
-├── cart.js
+├── cartPage.js
 ├── LICENSE.txt
 ├── loginjs.js
 ├── loginpg.html
