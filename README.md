@@ -28,7 +28,6 @@ Teeless is a fashion-focused e-commerce website built to showcase the latest tre
 
 ## 📁 Project Structure
 
-
 MultipleFiles/
 ├── AllProducts.html
 ├── blog.css
@@ -46,7 +45,7 @@ MultipleFiles/
 ├── product-details.html
 ├── products.json
 ├── product-page.html
-├── product-page\_1.html
+├── product-page_1.html
 ├── refund-policy.css
 ├── refund-policy.html
 ├── registerpg.html
@@ -57,8 +56,6 @@ MultipleFiles/
 ├── styles.css
 ├── terms.html
 └── terms.css
-
-
 
 ---
 
