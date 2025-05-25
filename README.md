@@ -39,7 +39,7 @@ MultipleFiles/
 ├── LICENSE.txt
 ├── loginjs.js
 ├── loginpg.html
-├── main.html
+├── index.html
 ├── privacy-policy.css
 ├── privacy-policy.html
 ├── product-details.html
@@ -53,7 +53,7 @@ MultipleFiles/
 ├── style-container.css
 ├── style-members.css
 ├── style-product.css
-├── styles.css
+├── web.css
 ├── terms.html
 └── terms.css
 
